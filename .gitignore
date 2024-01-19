@@ -1,5 +1,3 @@
-Data/
-.ipynb_checkpoints/
-model.pkl
-Wine_Quality_ANN-checkpoint.ipynb
-wine.csv
+. model.pkl
+. Wine_Quality_ANN-checkpoint.ipynb
+. wine.csv
